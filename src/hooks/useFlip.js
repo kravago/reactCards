@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 /* hook to handle state of flipping cards */
 function useFlip() {
